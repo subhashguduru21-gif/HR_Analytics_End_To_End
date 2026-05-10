@@ -1,0 +1,25 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Excel lock files
+~$*.xlsx
+~$*.xlsm
+
+# Power BI temp files
+*.pbix.bak
+
+# SQL*Plus spool temp files
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
