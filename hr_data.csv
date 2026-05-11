@@ -1,0 +1,51 @@
+EMP_ID,FULL_NAME,GENDER,AGE,DEPT_NAME,JOB_ROLE,SALARY,EXPERIENCE_YEARS,EDUCATION,ATTRITION,PERFORMANCE_SCORE,RATING_LABEL,PROMOTION,TRAINING_HOURS,CITY
+1001,Anand Babu,Male,37,Sales,Sales Trainee,37000,8,High School,No,2.1,Poor,No,21,Hyderabad
+1002,Prasad Mehta,Male,48,Finance,CFO,124000,8,High School,No,3.0,Average,No,17,Bangalore
+1003,Anita Kumar,Female,46,Finance,Finance Director,112000,4,Post Graduate,No,3.6,Good,No,32,Chennai
+1004,Latha Patel,Female,45,Sales,Sales Trainee,41000,19,High School,Yes,2.9,Average,No,13,Hyderabad
+1005,Rahul Babu,Male,51,Finance,Financial Analyst,113000,21,Post Graduate,No,4.1,Good,No,12,Bangalore
+1006,Rohit Krishnan,Male,46,Human Resources,HR Manager,108000,9,Post Graduate,Yes,2.1,Poor,No,28,Pune
+1007,Pooja Mehta,Female,42,Customer Support,Chat Support,39000,7,PhD,No,2.7,Average,No,24,Delhi
+1008,Nisha Joshi,Female,30,Customer Support,Support Executive,36000,9,High School,Yes,2.5,Average,No,35,Kolkata
+1009,Divya Devi,Female,51,Sales,Inside Sales Rep,44000,17,High School,No,4.0,Good,No,25,Kolkata
+1010,Sanjay Iyer,Male,32,Operations,Senior Ops Manager,70000,8,Post Graduate,No,3.5,Good,No,14,Pune
+1011,Suresh Pillai,Male,32,Marketing,Marketing Analyst,70000,9,Post Graduate,Yes,4.8,Excellent,Yes,27,Chennai
+1012,Arun Venkat,Male,27,Finance,Finance Manager,129000,1,Graduate,No,4.8,Excellent,Yes,18,Kolkata
+1013,Deepa Raj,Female,34,Marketing,Content Writer,55000,12,Post Graduate,No,3.4,Average,No,23,Pune
+1014,Ganesh Sharma,Male,36,Finance,Finance Manager,94000,10,High School,Yes,2.1,Poor,No,29,Hyderabad
+1015,Manoj Menon,Male,53,Sales,Sales Manager,63000,7,PhD,No,4.4,Good,No,20,Pune
+1016,Ramesh Iyer,Male,44,Sales,Business Dev Exec,55000,14,High School,No,3.9,Good,No,11,Kolkata
+1017,Ramya Desai,Female,28,Customer Support,Support Analyst,31000,2,PhD,No,2.8,Average,No,23,Chennai
+1018,Ramya Desai,Female,28,Sales,Inside Sales Rep,71000,1,High School,No,4.5,Excellent,Yes,18,Kolkata
+1019,Padma Mehta,Female,47,Customer Support,Chat Support,31000,2,PhD,No,4.4,Good,No,26,Hyderabad
+1020,Kavitha Mehta,Female,40,Customer Support,Support Executive,29000,7,Post Graduate,Yes,3.4,Average,No,18,Pune
+1021,Praveen Ghosh,Male,26,Engineering,Tech Lead,51000,5,High School,Yes,3.8,Good,No,13,Delhi
+1022,Madhavi Babu,Female,35,Customer Support,Customer Success,40000,11,Post Graduate,Yes,3.9,Good,No,37,Mumbai
+1023,Arjun Krishnan,Male,28,Operations,Operations Lead,105000,1,Post Graduate,No,4.6,Excellent,Yes,23,Chennai
+1024,Meena Krishnan,Female,41,Operations,Logistics Manager,113000,20,Post Graduate,Yes,4.6,Excellent,Yes,24,Hyderabad
+1025,Anand Gupta,Male,31,Sales,Inside Sales Rep,46000,5,Post Graduate,No,4.6,Excellent,Yes,40,Mumbai
+1026,Swapna Raj,Female,25,Research,Junior Researcher,104000,1,High School,No,3.9,Good,No,24,Hyderabad
+1027,Radha Subramanian,Female,49,Human Resources,HR Executive,36000,18,Graduate,Yes,3.1,Average,No,17,Hyderabad
+1028,Ravi Rajan,Male,45,Customer Support,Support Analyst,34000,2,Graduate,Yes,4.3,Good,No,34,Pune
+1029,Praveen Ghosh,Male,33,Human Resources,HR Manager,38000,7,Post Graduate,No,4.6,Excellent,Yes,23,Pune
+1030,Ashok Subramanian,Male,28,Marketing,Product Marketer,38000,4,Graduate,No,3.4,Average,No,27,Delhi
+1031,Arjun Menon,Male,34,Finance,Finance Director,108000,7,High School,No,3.5,Good,No,29,Kolkata
+1032,Naresh Babu,Male,33,Engineering,Software Engineer,77000,10,PhD,No,2.9,Average,No,40,Hyderabad
+1033,Swapna Rao,Female,34,Sales,Sales Trainee,31000,5,High School,No,3.6,Good,No,20,Delhi
+1034,Pooja Menon,Female,43,Operations,Senior Ops Manager,91000,20,High School,No,3.5,Good,No,34,Kolkata
+1035,Suma Rajan,Female,30,Operations,Senior Ops Manager,98000,4,Graduate,No,3.2,Average,No,8,Delhi
+1036,Deepa Iyer,Female,42,Marketing,Content Writer,64000,15,Graduate,No,4.7,Excellent,Yes,18,Pune
+1037,Geeta Menon,Female,43,Sales,Sales Trainee,43000,3,Graduate,Yes,2.1,Poor,No,38,Bangalore
+1038,Saranya Venkat,Female,34,Sales,Business Dev Exec,74000,12,PhD,Yes,4.1,Good,No,14,Delhi
+1039,Rohit Nambiar,Male,55,Customer Support,Support Analyst,29000,15,High School,Yes,3.4,Average,No,28,Kolkata
+1040,Latha Raj,Female,50,Research,Senior Scientist,69000,29,PhD,No,2.7,Average,No,25,Kolkata
+1041,Manoj Krishnan,Male,26,Research,Junior Researcher,79000,3,Post Graduate,Yes,2.5,Average,No,32,Bangalore
+1042,Amit Iyer,Male,48,Human Resources,Recruiter,106000,11,High School,No,3.2,Average,No,9,Delhi
+1043,Priya Pillai,Female,41,Customer Support,Support Analyst,35000,13,Graduate,No,2.1,Poor,No,29,Delhi
+1044,Rajesh Krishnan,Male,30,Customer Support,Chat Support,28000,9,High School,No,2.4,Poor,No,37,Chennai
+1045,Manoj Patil,Male,42,Human Resources,HR Director,95000,7,PhD,No,4.5,Excellent,Yes,24,Bangalore
+1046,Priya Kapoor,Female,25,Sales,Sales Trainee,43000,3,High School,No,2.6,Average,No,9,Hyderabad
+1047,Suresh Singh,Male,29,Human Resources,HR Business Partner,96000,4,Post Graduate,No,4.9,Excellent,Yes,15,Bangalore
+1048,Anita Rao,Female,23,Human Resources,Recruiter,84000,2,Graduate,No,4.5,Excellent,Yes,23,Pune
+1049,Geetha Menon,Female,29,Sales,Inside Sales Rep,51000,1,Post Graduate,No,3.0,Average,No,34,Delhi
+1050,Ajay Pillai,Male,51,Research,Data Scientist,68000,23,Post Graduate,No,3.6,Good,No,38,Mumbai
